@@ -3,6 +3,7 @@
 ## Descrição:📚
 
  Este projeto foi proposto pelo professor Kleber Matos da instituição Vai na Web, onde colocamos em prática nosso aprendizado em display flex.
+ visualização do projeto: https://project-beat.netlify.app/
 
 ## tecnologias utilizadas:👩‍💻
 
